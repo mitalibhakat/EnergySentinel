@@ -7,16 +7,19 @@ Intuitive platform for monitoring
 Analysis of energy usage patterns
 Real-time optimization capabilities
 to foster energy efficiency and sustainability
+
 TEAM MEMBERS:
-        1)PRAYASH MAHALI
+
+1)PRAYASH MAHALI
         
-        2)SUDEVI PANDA 
+2)SUDEVI PANDA 
         
-        3)SAMIKSHYA MOHANTY 
+ 3)SAMIKSHYA MOHANTY 
         
-        4)MITALI BHAKAT
+4)MITALI BHAKAT
         
-        5)MOHIT KUMAR NAYAK 
+5)MOHIT KUMAR NAYAK 
+
 The proposed setup is a single-phase energy metre monitoring system built on top of a smart metre, also known as a digital metre, which is a device that can wirelessly track a user's daily electricity consumption and display data from a smartphone, including voltage, current, power, unit conversion, and price.
 The Components we have used are:
 1)PZEM-004T
