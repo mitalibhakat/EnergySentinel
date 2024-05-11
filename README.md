@@ -5,10 +5,10 @@ Billing errors due to the carelessness of meter readers during meter reading and
 Sometimes consumer use dirty tricks like tampering with meters to reduce their bill.
 
 SOLUTION: The project aims to develop an Energy Sentinel with ESP32 and Blynk App, providing users with:
-Intuitive platform for monitoring
-Analysis of energy usage patterns
-Real-time optimization capabilities
-to foster energy efficiency and sustainability
+Intuitive platform for monitoring,
+Analysis of energy usage patterns,
+Real-time optimization capabilities,
+ and to foster energy efficiency and sustainability
 
 TEAM MEMBERS:
 
