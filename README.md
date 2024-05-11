@@ -23,6 +23,7 @@ TEAM MEMBERS:
 5)MOHIT KUMAR NAYAK 
 
 The proposed setup is a single-phase energy metre monitoring system built on top of a smart metre, also known as a digital metre, which is a device that can wirelessly track a user's daily electricity consumption and display data from a smartphone, including voltage, current, power, unit conversion, and price.
+
 The Components we have used are:
 1)PZEM-004T
 2)ESP32 
@@ -30,6 +31,7 @@ The Components we have used are:
 4)CA1235
 6)LED BULB 
 7)JUMPER WIRES 
+
 PROJECT DESCRIPTION: In an enormously populous country like India, where residential housing and industrial structures are densely populated, gathering accurate metre readings is a massive operation that demands a significant amount of labour and long workdays. These ultimately raise the operating costs for the energy provider, which has an impact on consumers' electricity prices.
 ENERGY SENTINEL  offers a solution to the issues that distribution and consumer industries are now facing. encountered by the distribution firms as well as the customers. The smart energy metre used in this project makes use of embedded system characteristics to implement the required functionalities. 
 This abstract presents a comprehensive overview of a system designed to monitor electrical parameters such as voltage, current, energy and also it shows unit and price using the PZEM-004T module, interface with an ESP32 microcontroller, and display the data on an OLED display and Blynk configuration.
