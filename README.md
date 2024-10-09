@@ -1,6 +1,6 @@
 BASIC DETAILS OF THE PROBLEM STATEMENT AND TEAM MEMBERS:-
 
-Problem Statement: An expansive number of staff is utilized for meter readings and other related assignment like bill payments.
+Problem Statement: An expensive number of staff is utilized for meter readings and other related assignment like bill payments.
 Billing errors due to the carelessness of meter readers during meter reading and sometimes billing estimation. Careless use of electricity by consumers who are unaware of its cost. 
 Sometimes consumer use dirty tricks like tampering with meters to reduce their bill.
 
